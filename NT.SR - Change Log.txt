@@ -1,0 +1,57 @@
+
+								   NT-SR UPDATE NOTES
+								   NT-SR UPDATE NOTES
+								   NT-SR UPDATE NOTES
+
+___________________________________________________________________________________________
+
+___________________________________________________________________________________________
+
+
+	ALL MAJOR UPDATES IN THEY'RE FORM
+
+RELEASED MAJOR VERSIONS
+ Update 0.0: The Creation
+ Description: The birth of the game
+
+
+ 
+GAME STAGES
+ Alpha		  - Basic/Complex constructs to the world    	  (terrain, scene)
+ Beta 		  - Polish/Details to the world ~ Public Release  (custom structures)
+ Full Release - Game is either almost complete or is complete (further patches/fixes)
+
+
+___________________________________________________________________________________________
+
+___________________________________________________________________________________________
+
+
+			Version: Alpha 0.1 | First Release
+			Release Date: 9/5/2018
+	
+		Changes:
+
+	- Added terrain
+	- Added Skybox
+	- Adjusted lighting parameters
+	- Added park bench
+	 *can sit down
+	 *may fall out of world depending on avatar size
+	- Details~
+	 *grass, terrain textures, background pp props
+	
+	
+	Hi all, I am back with another project :D
+	
+	This project will be for people to come to hang out and chill, the world features an
+	open environment that gives off a warm summers feel.
+	
+	At the moment while I sit in Alpha until we hit Beta the world can go public. From
+	there when we hit full release will most likely hint the project is complete and minor
+	updates will only be released.
+	
+	
+___________________________________________________________________________________________
+
+___________________________________________________________________________________________
