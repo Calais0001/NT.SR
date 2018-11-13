@@ -1,0 +1,20 @@
+
+								   NT-SR KNOWN ISSUES
+								   NT-SR KNOWN ISSUES
+								   NT-SR KNOWN ISSUES
+
+___________________________________________________________________________________________
+
+___________________________________________________________________________________________
+
+
+ANY SUBMITTED BUG REPORTS TO MY DISCORD OR INGAME WILL BE PUT HERE AND
+If a bug has been resolved it will have a "✔️" next to it.
+
+		Known Issues:
+	
+NTSR#0001 - POSSIBLY falling through the map when exiting the seat by the mirror
+			
+___________________________________________________________________________________________
+
+___________________________________________________________________________________________
