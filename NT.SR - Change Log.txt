@@ -28,7 +28,7 @@ ________________________________________________________________________________
 
 
 			Version: Alpha 0.1 | First Release
-			Release Date: 9/5/2018
+			Release Date: 11/13/2018
 	
 		Changes:
 
