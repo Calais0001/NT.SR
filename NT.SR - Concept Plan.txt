@@ -19,12 +19,13 @@ NT-SR CONCEPT PLAN
 		OUTDOOR AREA
 	- Slow moving grass with foliage covering the area
 	- Mirror that has a HQ/LQ toggable button located next or nearby
-	- A panel for visual graphics toggling or individual buttons for the meantime
+	- A panel for visual graphics toggling / individual buttons for the meantime
+	 *whilst i work on a UI panel for toggling i will feature basic On/Off buttons
 	- Tall grass/ Short grass
 	- Interactive objects(?)
 
 
-		INDOOR AREA
+		INDOOR AREA/S
 	
 	- NOT YET PLANNED
 

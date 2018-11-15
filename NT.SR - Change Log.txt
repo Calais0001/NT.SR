@@ -27,6 +27,9 @@ ________________________________________________________________________________
 ___________________________________________________________________________________________
 
 
+-------------------------------------------------------------------------------------------
+
+
 			Version: Alpha 0.1 | First Release
 			Release Date: 11/13/2018
 	
@@ -35,6 +38,7 @@ ________________________________________________________________________________
 	- Added terrain
 	- Added Skybox
 	- Adjusted lighting parameters
+	 *night-time with the "warm summers" feel
 	- Added park bench
 	 *can sit down
 	 *may fall out of world depending on avatar size
@@ -51,6 +55,41 @@ ________________________________________________________________________________
 	there when we hit full release will most likely hint the project is complete and minor
 	updates will only be released.
 	
+	
+-------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+
+
+			Version: Alpha 0.2 | Terrain Changes / Scenery / Occlusion Culling
+			Release Date: 11/15/2018
+	
+		Changes:
+
+	- Terrain
+	 *off to the right of the mirror I've worked on the thicker side of the forest
+	- Occlusion culling enabled
+	 *The game is currently optimized well enough to not need heavy OC, settings
+	 are minimal
+	 *there may be visual bugs but I have pre-ironed them out
+	- Adjusted lighting parameters
+	- Park bench now can seat 3 people
+	 *adjusted to perfection!
+	- Fix to foliage going berserk when being manipulated by a windzone
+	 *not all have been tuned so there may still be some with this issue
+	- Added a area light for the mirror
+	 *currently is default ON, i will add a toggle for it soon
+	- Enabled fog to simulate a slight blue haze
+	
+	
+	This update brings 3 major factors. 
+	
+	1 More work to the terrain and a proper idea of the terrain layout
+	2 Realism, such as leaves moving in the wind + lighting adjustments
+	3 Occlusion culling + world size compression
+	
+	For the next few updates, I will be heavily focusing on the terrain layout to set
+	myself up for small structures that I will build for players to roam around.
+	For now the area really only has the park bench and mirror.
 	
 ___________________________________________________________________________________________
 
