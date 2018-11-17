@@ -91,6 +91,45 @@ ________________________________________________________________________________
 	myself up for small structures that I will build for players to roam around.
 	For now the area really only has the park bench and mirror.
 	
+	
+-------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+
+
+			Version: Alpha 0.3 | Secondary Terrain / Performance Improvements
+			Release Date: 11/15/2018
+	
+		Changes:
+
+	- Terrain changes
+	 *hills to the side with a ocean in front
+	 *texture management
+	- Secondary terrain added to cover the distance
+	- Performance improvements include
+	 *grass detail distance lowered
+	 *most static objects set to static mode
+	 *continued compression to textures and aggressive compression to normals
+	 *secondary terrain made lowest renderer priority
+	- Some small changes to the fog for better visual appearance
+	 *exponential mode
+	- Changes to the mirror
+	 *the rear of the mirror*
+	 *added text
+	 
+	 
+	 This update is exciting, I've completed most of the scenery and only have the spawn
+	 area to finish off. At this moment the game is focused to only need very few textures
+	 and aggressive compression to keep the world size below 20MB and nothing above 50MB
+	 
+	 After I complete the spawn area I will partially begin setting myself up for the 
+	 little things I'm going to do. 
+	 
+	 in the meantime I will begin working on the special 
+	 buttons for the mirror. 
+	 
+	 next update won't include any progress on that but I will post 
+	 an update soon in the concept plan for what needs to be done.
+	
 ___________________________________________________________________________________________
 
 ___________________________________________________________________________________________
