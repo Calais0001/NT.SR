@@ -21,7 +21,7 @@ NT-SR CONCEPT PLAN
 	- Mirror that has a HQ/LQ toggable button located next or nearby
 	- A panel for visual graphics toggling / individual buttons for the meantime
 	 *whilst i work on a UI panel for toggling i will feature basic On/Off buttons
-	- Tall grass/ Short grass
+	- Tall grass / Short grass
 	- Interactive objects(?)
 
 
