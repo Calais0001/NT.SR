@@ -14,6 +14,8 @@ If a bug has been resolved it will have a "✔️" next to it.
 		Known Issues:
 	
 NTSR#0001 - POSSIBLY falling through the map when exiting the seat by the mirror
+
+NTSR#0001 - Occlusion culling causes glitches on the secondary terrain layer
 			
 ___________________________________________________________________________________________
 
