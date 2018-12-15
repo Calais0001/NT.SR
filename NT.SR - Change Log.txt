@@ -202,6 +202,23 @@ ________________________________________________________________________________
 	 to make shadows bluer and brighter
 	 
 
+-------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+
+
+			Version: Alpha 0.5.3-2017.4 | Mirror Toggling
+			Release Date: 12/15/2018
+	
+		Changes:
+
+	- Attempted to fix Unity Fog
+	 *Some objects that render ontop of the fog have now been fixed
+	- Quick correction to the mirror toggler
+	 *the blue haze is no longer present when the mirror is active
+	 
+	 
+	 This is update i tried my best to fix any rendering issues with Unity Fog.
+	 
 ___________________________________________________________________________________________
 
 ___________________________________________________________________________________________
