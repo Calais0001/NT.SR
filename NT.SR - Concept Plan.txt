@@ -14,6 +14,7 @@ NT-SR CONCEPT PLAN
 		WORLD SETTING / VISUAL GRAPHICS
 	- World setting to be night time and give off a warm summers feel
 	- Feature visual graphics that can be toggled on/off
+	- Have places to go for the player to strike adventure
 		
 		
 		OUTDOOR AREA
@@ -23,11 +24,13 @@ NT-SR CONCEPT PLAN
 	 *whilst i work on a UI panel for toggling i will feature basic On/Off buttons
 	- Tall grass / Short grass
 	- Interactive objects(?)
+	- Long hiking tracks that stretch to nearly the end of the map
 
 
 		INDOOR AREA/S
 	
-	- NOT YET PLANNED
+	- Cabin with beds + Music selection
+	- Possibly a video player
 
 ___________________________________________________________________________________________
 
