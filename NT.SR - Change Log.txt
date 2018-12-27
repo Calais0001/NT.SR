@@ -290,18 +290,49 @@ ________________________________________________________________________________
 	 *this will be used for the hiking tracks and games that will be 
 	  added in the near future around the back of the map
 	- Visual / Detailing
-	 *the ocean now has global reflections (modifed for best performance)
+	 *the ocean now has global reflections (modified for best performance)
 	 *the mountain ranges rock texture now has a larger
 	  fourier grid size + better visual quality
-	 *I've added tall grass alongside short grass
+	 *I've added tall grass along with the short grass
 	
 	
 	This update was quite late due to some issues with baking. these issues have been
 	terminated and baking should be a lot easier
 	
-	Please also note this version does contain a few issues that i cannot iron out until
+	Please also note this version does contain a few issues that I cannot iron out until
 	the next version. these issues are very small and cannot be seen so there's
 	no need to panic.
+	
+	
+-------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+
+
+			Version: Alpha 0.8 | Bug Fix Release / Performance Improvement
+			Release Date: 12/27/2018
+	
+		Changes:
+
+	- A fix for the ocean reflections
+	 *very uncomfortable in VR Devices, the reflections have been disabled for the time being
+	- A fix for all trees / bushes / windzone
+	 *tweaked windzone settings
+	 *corrected which shaders all models should be using (major performance improvement)
+	 *trees are now baked into lightmaps but are not static, for some reason when
+	  set to static the leaves and bark would be affected by the windzone
+	 *a fix for the tree's bark to appear black with no shadows
+	 
+	 
+	 Version point eight brings a significant improvement with the trees.
+	 
+	 Previously all trees used a shader that uses a Diffuse, Normal, Gloss maps, but only
+	 a diffuse map was active therefore bringing down performance.
+	 
+	 A fix was also made to the tree's being set to static which for some reason
+	 caused the entire tree to be affected by the wind zone, this has been fixed
+	 and the windzone settings have been tweaked for more realistic movement.
+
+	This may be the last or second last update for 2018.
 
 ___________________________________________________________________________________________
 
