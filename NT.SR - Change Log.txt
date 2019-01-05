@@ -419,6 +419,31 @@ ________________________________________________________________________________
 	 
 	 Several issues have been fixed
 
+
+-------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+
+
+			Version: Alpha 0.10 | User Interface System
+			Release Date: 1/6/2019
+	
+		Changes:
+
+	- 4 User Interface panels added!
+	 *panel 1 adds options for BXM, SPM and FBM
+	 *FBM is not available yet
+	 *there are two mirror settings, mirror size and mirror quality
+	 *a third panel for link to my Github, Discord server and my discord idea
+	 *the fourth panel shows a complete plan for the map
+	- Mirror no longer renders the silhouette in the bay
+	- Mirror toggle button changed
+	 *this is useful for short avatars
+	 
+	 
+	 This update is massive! 
+	 tons of hours were put into this one to get this UI panel complete as fast as
+	 possible, the best part is they all work :P
+	 
 ___________________________________________________________________________________________
 
 ___________________________________________________________________________________________
