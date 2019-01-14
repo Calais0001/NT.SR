@@ -30,6 +30,11 @@ NT-SR CONCEPT PLAN
 		INDOOR AREA/S
 	
 	- Cabin with beds + Music selection
+	- Cabin music to have albums of music then a community album for all the
+	  requested songs.
+	- A small cabin on the surface and when you click the front door you teleport
+	  to a area where the rest of the world stops rendering and is far enough
+	  out of voice range.
 	- Possibly a video player
 
 ___________________________________________________________________________________________
