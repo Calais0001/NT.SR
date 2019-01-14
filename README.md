@@ -1,6 +1,8 @@
 NT-SR ~ First released in November 2018
 
+
 NT is code name for Nassachi
+
 SR is code name for 
 
 
@@ -9,4 +11,5 @@ The map will also feature a cabin with music, a movie player and beautiful natur
 
 
 My Discord: thespaceman9000#2080
+
 Our Discord: https://discord.gg/uFU6EeB
