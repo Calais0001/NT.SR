@@ -23,7 +23,9 @@ NTSR#0004✔️- Text on the mirror causes Z-fighting
 			 *text was 0.00 on the surface of the mirror causing a bug with the VRC_MIRROR
 NTSR#0005✔️- MAJOR Performance let-down on the tree's
 			 *incorrect shader in use
-NTSR#0006  - VR_WATER shader ~reflections is not compatible in VR devices		 
+NTSR#0006  - VR_WATER shader ~reflections is not compatible in VR devices
+
+NTSR#0006  - Players may fall through the map at intersecting terrain meshes		 
 			
 ___________________________________________________________________________________________
 
