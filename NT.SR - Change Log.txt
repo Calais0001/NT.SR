@@ -520,7 +520,57 @@ ________________________________________________________________________________
 	 Working on layers for the mirror to improve performance
 	 
 	 
+-------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
 
+
+			Version: Alpha 0.13 | New Assets / Cabin / Post Processing
+			Release Date: 1/15/2019
+	
+		Changes:
+
+	- Terrain work
+	 *wind adjusted slightly for more movement and less stutter
+	 *changed colours of the wheat
+	 *reformed the terrain near the cabin
+	 *completed the terrain leading up to the cabin (only need to add foliage)
+	- Adjusted terrain pixel error and base map dist values
+	- The beta elements panel now displays "Accept" and "Decline"
+	- Games Zone terrain added to beta elements function
+	 *this means by default the terrain is disabled unless Beta mode is active
+	- Fixed an issue for UI render queues
+	- Post-processing Enabled
+	 *subtle Vignette
+	 *subtle Bloom
+	 *an option to disable if possible
+	- Added LPPV's
+	 *note that the lightmaps have not been updated yet,
+	  this version uses the 0.12 lightmaps
+	- Fixed an issue for the mirror Z-Fighting the front layer (reflection probe)
+	 *for some reason a blue haze is now on the mirror,
+	  a temporary fix is to shift the mirror forward .001
+	
+	
+	This update introduces a whole ton of new assets for me to use. It includes
+	tree's, bushes, particle systems, rocks, grounds and more.
+	
+	This update also enables Post processing, current features enabled
+	are Bloom and Vignette.
+	
+	Selected zones are now disabled by default, if you wish to view un-finished progress
+	enable the Beta Elements panel right at spawn
+	- Cabin / Sightseeing zone
+	- Indoor Area (inside the cabin)
+	- Games zone
+	
+	The progress on the actual interior of the cabin should begin soon, I've come up
+	with some great idea's for what to include inside but I do not know what the
+	interior structure will be as of yet. 
+	
+	Finally, all User Interface panels are still being tweaked and changed
+	for the best appearance and usability.
+	
+	
 ___________________________________________________________________________________________
 
 ___________________________________________________________________________________________
