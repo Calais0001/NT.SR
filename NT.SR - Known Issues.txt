@@ -25,7 +25,13 @@ NTSR#0005✔️- MAJOR Performance let-down on the tree's
 			 *incorrect shader in use
 NTSR#0006  - VR_WATER shader ~reflections is not compatible in VR devices
 
-NTSR#0006  - Players may fall through the map at intersecting terrain meshes		 
+NTSR#0007  - Version 0.12 OC update may cause chunks to unload in camera view
+			 *this may be due to having bigger chunks that unload instead of small ones
+NTSR#0008✔️- U.I has RQ rendering issues
+
+NTSR#0009✔️- The main mirror has a blue haze for an unknown reason
+			 *Z-fighting was also present, a temp fix was to move the mirror by .001
+
 			
 ___________________________________________________________________________________________
 

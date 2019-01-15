@@ -571,6 +571,27 @@ ________________________________________________________________________________
 	for the best appearance and usability.
 	
 	
+-------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+
+
+			Version: Alpha 0.13.1 | Patch Update
+			Release Date: 1/15/2019
+	
+		Changes:
+
+	- Fixed an issue when viewing UI on certain angles it seems to brighten and dim
+	- Fixed an issue for UI to render on incorrect layers
+	 *in some circumstances  different materials with different RQ settings have been made
+	- Significantly  reduced bloom to more comfortable levels
+	- Fixed an issue with the ocean coming above the terrain mesh
+	 *I've redone the bayfront, it shouldn't happen again
+	- When prompting to enable Beta Mode the text's disappear
+	 
+	 
+	 This update fixes all rendering issues with the UI systems
+	 This update also improves bloom the ocean and UI
+	 
 ___________________________________________________________________________________________
 
 ___________________________________________________________________________________________
