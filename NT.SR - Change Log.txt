@@ -592,6 +592,44 @@ ________________________________________________________________________________
 	 This update fixes all rendering issues with the UI systems
 	 This update also improves bloom the ocean and UI
 	 
+	 
+-------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+
+
+			Version: Alpha 0.14 | Cabin / Ambient Occlusion
+			Release Date: 1/23/2019
+	
+		Changes:
+
+	- Lighting enhancements near the Main mirror and Cabin mirror
+	- Tweaked bend setting for grass movement
+	- Ocean screen space Refraction has been disabled for the moment
+	- Fixed an issue with the mirror having some strange Z-Fighting
+	 *I had accidentally set the position on the wrong axis
+	- Fixed an issue with the terrain using the wrong shader
+	- Fixed an issue with UI layering
+	 
+	 BETA MODE ONLY
+	- Terrain work
+	 *added tons of tree's and bushes around the cabin area
+	 *major terrain adjustments to the cabin area
+	 *lots of grass
+	- Added fences
+	- The mirror by the cabin now has a rear shader
+	 
+	 
+	 Baked ambient occlusion has been enabled to the lightmap baking process,
+	 this means game objects that don't receive direct sunlight or cracks and crevices
+	 will appear darker than most normal shadows.
+	 
+	 Sorry for the major delay, not a lot of progress in this update due to working
+	 on my avatar, I am still pre-occupied with my avatar so at the moment
+	 progress is slow.
+	 
+	 At the moment to have the ocean curve neatly around the map and off towards the
+	 cabin I've had add a second ocean layer, soon I will venture to Blender to
+	 hopefully create a custom shape that fits the area.
 ___________________________________________________________________________________________
 
 ___________________________________________________________________________________________
