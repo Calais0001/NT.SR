@@ -24,14 +24,20 @@ NTSR#0004✔️- Text on the mirror causes Z-fighting
 NTSR#0005✔️- MAJOR Performance let-down on the tree's
 			 *incorrect shader in use
 NTSR#0006  - VR_WATER shader ~reflections is not compatible in VR devices
-
-NTSR#0007  - Version 0.12 OC update may cause chunks to unload in camera view
+			 Since Version 0.9 Alpha this shader has been replaced
+NTSR#0007  - Version 0.12 OC update may cause chunks to unload in camera viewv
 			 *this may be due to having bigger chunks that unload instead of small ones
-NTSR#0008✔️- U.I has RQ rendering issues
+NTSR#0008✔️- The User Interface has Render Queue issues
 
 NTSR#0009✔️- The main mirror has a blue haze for an unknown reason
 			 *Z-fighting was also present, a temp fix was to move the mirror by .001
+NTSR#0010  - Tree culling (1.0) Tree's upclose may vanish when looking into mirrors
 
+NTSR#0011  - Tree culling (1.0) When in VR tree's cull at a much smaller distance
+
+NTSR#0012  - When walking near tree's, their colliders will cause the player to shoot
+			 up to the top of the tree
+NTSR#0013  - The BOX's mirror toggler is global not local			 
 			
 ___________________________________________________________________________________________
 
