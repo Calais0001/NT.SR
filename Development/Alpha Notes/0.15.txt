@@ -1,0 +1,63 @@
+-------------------------------------------------------------------------------------------
+
+
+			Version: Alpha 0.15 | Cabin Zone / The Box / 
+			Release Date: 2/11/2019
+	
+		Changes:
+
+	- Terrain work
+	 *i made the mountain ranges look slightly better by re-painting them
+	- Added the BOX
+	 *when in the box the outside world will render thus improving performance
+	 *features on big mirror with only one setting
+	- Attempted to fix the intense FPS drop when using any mirror in the world
+	- Adjusted AO settings
+	- Adjusted realtime and bake settings
+	- All tree's set to static but lightmap static is off
+	 *this removes the extreme black shadows
+	- Added lod groups for trees to cull when not near them
+	 *when they shift into cull mode they disappear entirely!
+	- Beaches look a lot better
+	- Updated Nassachi Bay Roadmap panel
+	 *new image and information as part of the 0.15 update
+	- Reduced ocean tessellation to 16 (from 32)
+	- Added mesh colliders for the rocks around the cabin area
+	- Updated discord server link due to expire
+	- Fixed an issue with transparency for the UI panels
+	- Fixed the ocean heightmap going backwards
+	 *animation speed reduced
+	- Fixed an issue where if the mirror was turned off; the settings panel would remain open
+	- Fixed an issue with the roadmap panel map photo z-fighting with the panel
+	- Fixed an issue with the beta assets panel bugging out when being accepted
+	
+	BETA MODE ONLY
+	- Terrain work
+	 *tons of terrain painting
+	 *covered the area in trees and grass
+	- Mirror in the cabin zone is no longer active by default
+	- Added campfire smoke
+	 *first attempt at advanced settings for particle systems
+	 
+	SORRY! for the huge delay with this one, let me explain. first of all, I lost
+	2 weeks of work back when i tried to sync this project to my laptop..
+	instead, it did it backwards ;_;
+	
+	Another one is im still working on my avatar before my new VR setup comes in.
+	
+	Update 0.16 will be released as soon as the cabin zone is 99.9% complete,
+	after that i will work on the cabin.
+
+	In this update I've added the Box which players can use using the
+	world controls tab at spawn, I've also made little changes to which objects
+	get baked such as the tree's. this also fixes them being pure black,
+	this shouldn't have an impact on performance but if it does i will revert.
+	 
+	 The cabin zone is nearing completion and i soon will begin making the actual cabin.
+	 As of this update the cabin zone is now out of Beta.
+	 (can be seen without enabling beta mode)
+	 
+	 I went ahead and changed some lightmap settings as part of experimenting as well.
+	 
+
+-------------------------------------------------------------------------------------------

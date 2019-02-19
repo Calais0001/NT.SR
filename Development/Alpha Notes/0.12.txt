@@ -1,0 +1,31 @@
+-------------------------------------------------------------------------------------------
+
+
+			Version: Alpha 0.12 | The Cabin Zone
+			Release Date: 1/13/2019
+	
+		Changes:
+
+	- Occlusion culling update
+	 *areas in the distance have bigger chunks therefore decreasing the size
+	  and time to cull the world
+	- Post processing in the works
+	 *this feature is included but not enabled
+	- Changed all the UI buttons into big buttons
+	 *when selected it lightens up
+	- The pathway in the mirror area is now more overgrown by grass
+	- Enable beta elements to view Beta assets
+	 *added cabin
+	 *added campfire and rocks for seats (seats not included a the moment)
+	 *pathways created
+	 *textured terrain
+	 
+	 
+	 To view most of the progress in this update enable the Beta Elements
+	 
+	 Post processing is now in the works and will be in this world soon
+	 
+	 Working on layers for the mirror to improve performance
+	 
+	 
+-------------------------------------------------------------------------------------------

@@ -1,0 +1,45 @@
+-------------------------------------------------------------------------------------------
+
+
+			Version: Alpha 0.6 | Bug Fixes / Terrain / Performance Improvements
+			Release Date: 12/22/2018
+	
+		Changes:
+
+	- Terrain work
+	 *wheat field is larger
+	 *more trees & grass coverage
+	- Heavily optimized the total world appearance
+	 *fog color changed slightly
+	 *environmental lighting reflections now use the skybox
+	  instead of a secondary colour
+	 *lightmapper settings changed and improved for more accurate scene
+	  lighting and appearance
+	- Planned features, Update notes, and Dev notes have all been added to the mirror 
+	 (some on the rear side)
+	- Corrected which objects should have mesh colliders
+	- All objects with emission now use baked GI(for better performance)
+	 *the directional lightsource has been set too mixed mode meaning all static
+	  shadows will be baked into lightmaps, whilst shadows and moving objects
+	  will be realtime
+	- The mirror has been improved
+	 *fixed z-fighting with the text
+	 *fixed the text rendering on top of all layers
+	 *added text on the rear side
+	 *added front-facing reflections
+	 
+	 
+	 Hi! This version is massive, there has been a lot of learning curves and 
+	 problems I had to face with this version.
+	 
+	 The first one was correcting the world lighting,
+	 its still a work in progress but has been much improved.
+	 
+	 A few new useful features have been added for development and a 
+	 few secrets have also been added too ;)
+	 
+	 By the way! the world thumbnail is extra pretty, i went and added a few
+	 Post Processing components to it.
+	 
+	 
+-------------------------------------------------------------------------------------------

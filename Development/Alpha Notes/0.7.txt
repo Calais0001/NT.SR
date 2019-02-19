@@ -1,0 +1,27 @@
+-------------------------------------------------------------------------------------------
+
+
+			Version: Alpha 0.7 | Games Zone / Visual Changes
+			Release Date: 12/26/2018
+	
+		Changes:
+
+	- 3rd terrain has been added
+	 *this will be used for the hiking tracks and games that will be 
+	  added in the near future around the back of the map
+	- Visual / Detailing
+	 *the ocean now has global reflections (modified for best performance)
+	 *the mountain ranges rock texture now has a larger
+	  fourier grid size + better visual quality
+	 *I've added tall grass along with the short grass
+	
+	
+	This update was quite late due to some issues with baking. these issues have been
+	terminated and baking should be a lot easier
+	
+	Please also note this version does contain a few issues that I cannot iron out until
+	the next version. these issues are very small and cannot be seen so there's
+	no need to panic.
+	
+	
+-------------------------------------------------------------------------------------------

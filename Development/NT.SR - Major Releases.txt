@@ -1,0 +1,78 @@
+
+								   NT-SR MAJOR RELEASES
+								   NT-SR MAJOR RELEASES
+								   NT-SR MAJOR RELEASES
+
+___________________________________________________________________________________________
+
+___________________________________________________________________________________________
+
+
+
+-------------------------------------------------------------------------------------------
+
+
+			Version: Alpha 0.3 | Secondary Terrain / Performance Improvements
+			Release Date: 11/17/2018
+	
+			Description:
+			Released to the public in VRChat
+
+
+-------------------------------------------------------------------------------------------
+
+
+			Version: Alpha 0.5.1-2017.4 | Unity 2017.4 / Changes
+			Release Date: 12/12/2018
+			
+			Description: 
+			Upgrade world to Unity 2017.4.15f1
+	
+
+-------------------------------------------------------------------------------------------
+
+
+			Version: Alpha 0.9 | Terrain Work / Particle System
+			Release Date: 1/2/2019
+	
+			Description:
+			Added user interface, New ocean, Named to Nassachi Bay
+
+
+-------------------------------------------------------------------------------------------
+
+
+			Version: Alpha 0.10 | User Interface System
+			Release Date: 1/6/2019
+	
+			Description:
+			Much improved UI system, Spawn sign
+
+
+-------------------------------------------------------------------------------------------
+
+
+			Version: Alpha 0.13 | New Assets / Cabin / Post Processing
+			Release Date: 1/15/2019
+	
+			Description:
+			The cabin zone, Vignette, Bloom, Lighting improvements, Beta mode
+
+	
+-------------------------------------------------------------------------------------------
+
+
+			Version: Alpha 0.15 | Cabin Zone / The Box
+			Release Date: 2/11/2019
+	
+			Description:
+			The Box was added
+
+
+
+-------------------------------------------------------------------------------------------
+
+
+___________________________________________________________________________________________
+
+___________________________________________________________________________________________

@@ -1,0 +1,44 @@
+-------------------------------------------------------------------------------------------
+
+
+			Version: Alpha 0.11 | UI System Completion / Terrain Adjustments
+			Release Date: 1/10/2019
+	
+		Changes:
+
+	- General fixes and improvements to the UI system
+	 *added beta elements panel
+	 *world controls, links, map plan and beta elements have been
+	  moved closer to spawn
+	 *mirror settings is now next to the mirror ball
+	 *removed all colour transition's
+	 *under mirror settings, the two options can no longer be on at the same time
+	- Changed spawn point direction and position
+	- Improved the fog particle system
+	 *less transparent
+	 *colours darkened slightly with a sharper green tint
+	 *particles move slightly slower
+	- Terrain grass is a slightly darker green
+	 *also slightly shorter
+	- Adjusted wind settings for grass and tree's
+	- Ocean should no longer appear above the sand
+	- Removed the reflection probe for the mirror toggle ball
+	- Added QR code for the latest event
+	
+	
+	The User Interface panel is on a fancy welcome sign right next to spawn.
+	
+	Some info on the Beta Elements panel; this panel is used to reveal in-complete
+	work since it adds in-complete assets they may not work or could cause
+	performance issues. Once this is enabled it cannot be disabled.
+	
+	This update is focused on polishing the UI system, its location and visual bugs.
+	I've given the main panels a new home right next to spawn and left the mirror
+	settings panel right in front of the mirror.
+	
+	As of now the progress on the cabin has begun and will complete the spawn area,
+	once complete the cabin and spawn area or mirror zone is complete I will go
+	around polishing and perfecting any rough edges as I prepare for the Games Zones.
+	
+	
+-------------------------------------------------------------------------------------------

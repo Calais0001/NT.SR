@@ -1,0 +1,26 @@
+-------------------------------------------------------------------------------------------
+
+
+			Version: Alpha 0.9.1 | Point Nine Patch Release
+			Release Date: 1/3/2019
+	
+		Changes:
+
+	- Mirror is now toggled by button
+	 *several users requested that the mirror should be toggled by a button instead
+	- All buttons behind the mirror have been disabled
+	 *3 of them do not work so I've disabled all of them until the next release
+	- Fixed grass view distance renderer
+	- Fog reverted to original settings (except for colour)
+	- Removed a particle system
+	 *i do not know how it got there
+	- The sand now meets the ocean at the bay view
+	- Fixed an issue for the texture resolution for the mountains
+	 *was 256 instead of 1024
+	
+
+	 
+	 Several issues have been fixed
+
+
+-------------------------------------------------------------------------------------------

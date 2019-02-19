@@ -1,0 +1,21 @@
+-------------------------------------------------------------------------------------------
+
+
+			Version: Alpha 0.5.2-2017.4 | Mirror Toggling
+			Release Date: 12/15/2018
+	
+		Changes:
+
+	- The mirror can now be toggled on and off
+	 *the method will change once the UI panel is implemented
+	- Fixed a broken shader.. somewhere
+	- Made custom lightmap parameters
+	 *lightmap settings changed also
+	 
+	 
+	 This update brings the ability to now toggle the main mirror
+	 Another big change is the lighting, at the moment it's not finished but I'm attempting
+	 to make shadows bluer and brighter
+	 
+
+-------------------------------------------------------------------------------------------

@@ -1,0 +1,15 @@
+-------------------------------------------------------------------------------------------
+
+
+			Version: Alpha 0.4 | Patch Update
+			Release Date: 11/18/2018
+	
+		Changes:
+
+	- Fix to the text on the mirror was set to static without normals
+	- Player mods wasn't working
+	*jump, player speed
+	- Fog rendering corrected
+
+
+-------------------------------------------------------------------------------------------

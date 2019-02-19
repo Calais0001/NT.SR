@@ -8,7 +8,7 @@ ________________________________________________________________________________
 ___________________________________________________________________________________________
 
 
-ANY SUBMITTED BUG REPORTS TO MY DISCORD OR INGAME WILL BE PUT HERE AND
+ANY SUBMITTED BUG REPORTS TO MY DISCORD OR IN GAME WILL BE PUT HERE
 If a bug has been resolved it will have a "✔️" next to it.
 
 		Known Issues:

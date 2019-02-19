@@ -1,0 +1,31 @@
+-------------------------------------------------------------------------------------------
+
+
+			Version: Alpha 0.8 | Bug Fix Release / Performance Improvement
+			Release Date: 12/27/2018
+	
+		Changes:
+
+	- A fix for the ocean reflections
+	 *very uncomfortable in VR Devices, the reflections have been disabled for the time being
+	- A fix for all trees / bushes / windzone
+	 *tweaked windzone settings
+	 *corrected which shaders all models should be using (major performance improvement)
+	 *trees are now baked into lightmaps but are not static, for some reason when
+	  set to static the leaves and bark would be affected by the windzone
+	 *a fix for the tree's bark to appear black with no shadows
+	 
+	 
+	 Version point eight brings a significant improvement with the trees.
+	 
+	 Previously all trees used a shader that uses a Diffuse, Normal, Gloss maps, but only
+	 a diffuse map was active therefore bringing down performance.
+	 
+	 A fix was also made to the tree's being set to static which for some reason
+	 caused the entire tree to be affected by the wind zone, this has been fixed
+	 and the windzone settings have been tweaked for more realistic movement.
+
+	This may be the last or second last update for 2018.
+	
+	
+-------------------------------------------------------------------------------------------

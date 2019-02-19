@@ -1,0 +1,30 @@
+-------------------------------------------------------------------------------------------
+
+
+			Version: Alpha 0.1 | First Release
+			Release Date: 11/13/2018
+	
+		Changes:
+
+	- Added terrain
+	- Added Skybox
+	- Adjusted lighting parameters
+	 *night-time with the "warm summers" feel
+	- Added park bench
+	 *can sit down
+	 *may fall out of world depending on avatar size
+	- Details~
+	 *grass, terrain textures, background pp props
+	
+	
+	Hi all, I am back with another project :D
+	
+	This project will be for people to come to hang out and chill, the world features an
+	open environment that gives off a warm summers feel.
+	
+	At the moment while I sit in Alpha until we hit Beta the world can go public. From
+	there when we hit full release will most likely hint the project is complete and minor
+	updates will only be released.
+	
+	
+-------------------------------------------------------------------------------------------

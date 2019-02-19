@@ -1,0 +1,56 @@
+-------------------------------------------------------------------------------------------
+
+
+			Version: Alpha 0.9 | Terrain Work / Particle System
+			Release Date: 1/2/2019
+	
+		Changes:
+
+	- Added specialized buttons
+	 *SPM (Super Performance Mode)
+	 *FBM (Full Bright Mode) ~DIRECTIONAL LIGHTSOURCE IS REALTIME
+	 *BM  (Box Mode) [INCOMPLETE]
+	- Terrain work
+	 *Tree's that completely enclose the Mirror zone
+	 *wheat field is even larger
+	 *tons of detailing around the mirror zone which includes; tall grass,
+	  overgrowth, short and tall trees, bushes.
+	- VRC_Water script is broken and has been deleted and replaced
+	 *upon closer inspection all reflections render twice in VR HMD's.
+	 *I'm using a VR compatible shader that was also used in my first project, VT-LR
+	 *the new water shader is using the skybox cubemap meaning it will shine a bright blue
+	  (NOT EMISSIVE)
+	 *the bay has a larger grid size compared to any other lake that will or has been
+	  added to the world, this is to simulate long and tall waves from the ocean coming
+	  into the shoreline
+	- The entrance to the Games Zone has a fancy particle system :p
+	- The tree in front now has a collider again
+	- Fog is closer to the player
+	 *the settings are: start 5 and end 380
+	 *the fog colour is ever so slightly darker
+	- Lightmap parameters adjusted
+
+	 
+	 Welcome to Nassachi Bay.
+	 
+	 Version nine brings a ton of promised features, the most important ones 
+	 are the new buttons! The Full Bright, Super Performance and Box 
+	 button
+	 
+	 The full bright button adds a directional light source directly 
+	 above to light up the scene.
+	 The Super performance mode disables most CPU/GPU intensive world 
+	 objects/components to allow for better performance.
+	 And finally the Box buttons! this teleports the player to a box, but at the moment
+	 there is no box.
+	 
+	 On the other hand I've done more work on the tree's surrounding the mirror area and a 
+	 particle system that covers the entrance to the forest.
+	 
+	 To compensate for the loss of the VRC_Water and its pretty reflections I've
+	 decided to add the same water shader that was used in my first project (VT-LR)
+	 
+	 By the way, Happy New Year!!
+	 
+	 
+-------------------------------------------------------------------------------------------

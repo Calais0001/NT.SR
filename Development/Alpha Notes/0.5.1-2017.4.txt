@@ -1,0 +1,35 @@
+-------------------------------------------------------------------------------------------
+
+
+			Version: Alpha 0.5.1-2017.4 | Unity 2017.4 / Changes
+			Release Date: 12/12/2018
+	
+		Changes:
+
+	- UPGRADE TO UNITY 2017.4.15F1 ~ 
+	- Terrain changes
+	 *polished secondary terrain
+	- adjusted Global_Lighting
+	 *warmer temperature setting
+	 *adjusted light intensity
+	 *adjusted light color
+	- Removed normal maps for terrain textures
+	- Added proper collision for the tree behind the bench
+	 *other collision meshes added/removed
+	- Added a totally-not-in-plain-sight-secret
+	- Corrected texture specular mapping
+	 *visual bug with fog
+	- Agressive texture compression
+	 *aggressive meaning low res, low poly objects
+	 *mostly optimizing for a lower download size
+	 *objects that are impossible to get close to have lower quality
+	 
+	 
+	 This is the first version uploaded using Unity 2017, issues and bugs may arise but do
+	 not fret, they will be squished.
+	 
+	 Thanks to some user feedback, I've attempted to make the world feel more warm by
+	 adjusting the temperature and lighting intensity and lighting color.
+	 
+	 
+-------------------------------------------------------------------------------------------
