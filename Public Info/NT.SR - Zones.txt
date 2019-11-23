@@ -11,27 +11,35 @@ ________________________________________________________________________________
 NT-SR ZONES
 
 
-	Zone-1 (Mirror Zone)	[AVAILABLE]
-The main UI system & Mirror is located here.
-The User Interface offers links to the creators Discord and Github
-Also includes the Roadmap and World controls panel
+Zone-1 (Mirror Zone)							[AVAILABLE]
+	The main UI system & Mirror is located here.
+	The User Interface offers links to the creators
+	Discord and Github
+ aswell as other information
+	Also includes the Roadmap & World controls panel
 
-	Zone-2 (Montwick Forest)[AVAILABLE]
-Montwick cabin is located here, along with a warm campfire, seats and a mirror
+Zone-2 (Montwick Forest)						[AVAILABLE]
+	Montwick forest is a small heavy foliage area,
+	near the shore you can find a Cabin with a
+	campfire, seats and a mirror.
 
-	Zone-3 (Montwick Cabin)	[NO PROGRESS]
-This place is for the sleepers, outside of the cabin in the surrounding area is a mini
-forest full of pretty eye candy. with a warm campfire,  in this cozy circle you could
-pass out in minutes.
-THE INTERNAL CABIN IS NOT YET RELEASED BUT MAY BE ACCESSED IN BETA AFTER VERSION 0.15
+Zone-3 (Montwick Cabin)							[NO PROGRESS]
+	This place is for the sleepers & the chillers,
+	the cabin shall include a video player capable of
+	playing videos and livestreams, options to change
+	the lighting and LUT and more.
 
-	Zone-4 (Games Zone)		[NO PROGRESS]
-The games area will be the largest part of the map!
-It'll feature tons of games, puzzles, strategy and more. Other things like hiking trails, 
-eye candy, secrets, caves? and tons more
+Zone-4 (Games Zone)								[NO PROGRESS]
+	The games area will be the largest
+	part of the map!
+ It'll feature tons of games,
+	puzzles, strategy and more. Other things like
+	hiking trails, eye candy, secrets, caves?
+	and tons more
 
-	Zone-5 (The Box)		[AVAILABLE]
-The box has one purpose, Lag Free.
+Zone-5 (The Box)								[AVAILABLE]
+	The box has one purpose, Lag Free.
+
 
 ___________________________________________________________________________________________
 

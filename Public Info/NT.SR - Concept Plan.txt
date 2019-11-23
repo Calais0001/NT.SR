@@ -29,7 +29,7 @@ NT-SR CONCEPT PLAN
 
 		INDOOR AREA/S
 	
-	- Cabin ~ video player / music / beds
+	- Cabin ~ video player / beds / scene settings
 	 *special community suggested music album
 	- A isolated lag free zone for avatar testers and users with low-end machines
 

@@ -37,7 +37,9 @@ NTSR#0011  - Tree culling (1.0) When in VR tree's cull at a much smaller distanc
 
 NTSR#0012  - When walking near tree's, their colliders will cause the player to shoot
 			 up to the top of the tree
-NTSR#0013  - The BOX's mirror toggler is global not local			 
+NTSR#0013✔️- The BOX's mirror toggler is global not local
+
+NTSR#0014✔️- Spelling error's with some of the text in the UI panels			 
 			
 ___________________________________________________________________________________________
 

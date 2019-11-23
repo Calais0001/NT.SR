@@ -10,12 +10,29 @@ ________________________________________________________________________________
 
 Any suggested features for NT-SR will appear here
 
-♦ New Spawn Area
-			Seperate from the world, with its own unique features
-♦ World Barriers (Toggable)
+♦ Spawn2.0
+    seperate from the world, with
+    its own unique features
 
-♦ Cabin w/ Beds, Music, Fire
-           Movie Player, Light Ctrl
-♦ Togglable mirror text
+♦ World barriers (togglable)
 
-♦ Hiking Trails with puzzles and sightseeing
+♦ Cabin w/ Beds, fire
+    Movie Player, Scene Ctrls
+
+♦ Dedicated In-Game Version
+    Version Log
+
+♦ Hiking Trails with puzzles
+    and sightseeing
+
+♦ Mirror2.0
+    Advanced mirror options, Smart 
+    deactivation, togglable bench
+    collider, improved mirror lighting
+
+♦ Improved S-P Mode
+    (super-performance-mode)
+
+♦ Revised tree culling
+    Seeking help, once they cull they 
+    should turn into images..
