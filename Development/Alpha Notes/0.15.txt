@@ -50,7 +50,7 @@
 
 	In this update I've added the Box which players can use using the
 	world controls tab at spawn, I've also made little changes to which objects
-	get baked such as the tree's. this also fixes them being pure black,
+	get baked such as the trees. this also fixes them being pure black,
 	this shouldn't have an impact on performance but if it does i will revert.
 	 
 	 The cabin zone is nearing completion and i soon will begin making the actual cabin.

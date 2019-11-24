@@ -1,0 +1,68 @@
+-------------------------------------------------------------------------------------------
+
+
+			Version: Alpha 0.16 | Graphics Overhaul / Improvements & Bug Fixes
+			Release Date: 11/24/2019
+	
+		Changes:
+	 
+	- RE-WORKED GRAPHICS
+	 *new terrain shader for improved texture blending / lighting / reflections
+	 *tweaked the colour of the skybox + global lighting
+	 *completely overhauled the ocean shader (follow up further down)
+	 *tweaked the mirror reflection probe
+	 *improved the appearance of the mirror activation ball
+	 
+	- GENERAL IMPROVEMENTS/ CHANGES
+	 *compressed some fat textures
+	 *Super-Performance-Mode now covers the cabin zone
+	 *added flowers everywhere
+	 *tweaks to the cabin zone terrain
+	 *people at the cabin can probably see themselves in the mirror now when seated
+	 *more rocks
+	 *tweaked post-processing (added LUT)
+	 *removed any noticable terrain clipping
+	 *increased the tree-cull range by 5%
+	 *changes to the colouring of all interface panels
+	 *removed update info and shifted world version and info to rear of mirror
+	 
+	- THE BOX
+	 *50% bigger
+	 *there are two toggle buttons on either side of the mirror
+	 *switched to unlit texture and removed the light source
+	 *wall textures slightly darker
+	 *mirror no longer active by default and toggled locally
+	 *mirror activates locally
+	 
+	- Added sounds
+	 *the knuckles
+	 *barry the pot plant
+	 
+	- OCEAN SHADER
+	 *with 0.16, I've provided a full rework of this shader to boost the eye candy
+	  for the scene. And what I've done has made this shader no longer look like plastic!
+	 *SSR (Screen-Space-Refraction) re-enabled and optimized
+	 *tweaked colour (including blend)
+	 *tweaked glossiness, metallic and normal map settings
+	  (visible texture now looks like actual water)
+	 *added static skybox reflection
+	 *increased fourier grid size to an acceptable tile size
+	 *optimized tessellation settings
+	 *optimized blend settings
+	 *a fix for seeing a green haze
+	 
+	- FIXES
+	 *when opening any panel at the main user interface the panel will check to make sure all other panels are off to prevent overlapping
+	 *fixed bug when clicking BAM it would never come back even if the user declined the prompt
+	 *fixed panel highlighting and sizing
+	 *fixed some incorrect seat positions and exit positions
+	 
+	 Due to my absence, all server links, QR codes and my discord name have been checked and updated
+
+	 My unexpected hiatus is over! This update serves as a graphical overhaul and a bug fix release.
+	 I've taken the time to sit down and completely overhaul the ocean shader due to receiving several comments about it looking "like plastic". I've played around with cube map settings, gloss and metallic settings, Screen-Space-Refraction and improved the quality of the normal map.
+
+	 Unfortunately due to running out of time, the upgraded version of the mirrors will be delayed until 0.17, about which more info will be provided in my server.
+
+
+-------------------------------------------------------------------------------------------

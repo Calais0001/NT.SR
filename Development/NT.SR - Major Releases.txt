@@ -11,26 +11,21 @@ ________________________________________________________________________________
 
 -------------------------------------------------------------------------------------------
 
-
 			Version: Alpha 0.3 | Secondary Terrain / Performance Improvements
 			Release Date: 11/17/2018
 	
 			Description:
 			Released to the public in VRChat
 
-
 -------------------------------------------------------------------------------------------
-
 
 			Version: Alpha 0.5.1-2017.4 | Unity 2017.4 / Changes
 			Release Date: 12/12/2018
 			
 			Description: 
 			Upgrade world to Unity 2017.4.15f1
-	
 
 -------------------------------------------------------------------------------------------
-
 
 			Version: Alpha 0.9 | Terrain Work / Particle System
 			Release Date: 1/2/2019
@@ -38,9 +33,7 @@ ________________________________________________________________________________
 			Description:
 			Added user interface, New ocean, Named to Nassachi Bay
 
-
 -------------------------------------------------------------------------------------------
-
 
 			Version: Alpha 0.10 | User Interface System
 			Release Date: 1/6/2019
@@ -48,19 +41,15 @@ ________________________________________________________________________________
 			Description:
 			Much improved UI system, Spawn sign
 
-
 -------------------------------------------------------------------------------------------
-
 
 			Version: Alpha 0.13 | New Assets / Cabin / Post Processing
 			Release Date: 1/15/2019
 	
 			Description:
 			The cabin zone, Vignette, Bloom, Lighting improvements, Beta mode
-
 	
 -------------------------------------------------------------------------------------------
-
 
 			Version: Alpha 0.15 | Cabin Zone / The Box
 			Release Date: 2/11/2019
@@ -68,10 +57,17 @@ ________________________________________________________________________________
 			Description:
 			The Box was added
 
-
-
 -------------------------------------------------------------------------------------------
 
+			Version: Alpha 0.16 | Graphics Overhaul / Improvements & Bug Fixes
+			Release Date: 11/24/2019
+	
+			Description:
+			Ocean shader completely re-optimized and improved general eye candy
+			World lighting upgrade
+			Terrain shader upgrade
+
+-------------------------------------------------------------------------------------------
 
 ___________________________________________________________________________________________
 
