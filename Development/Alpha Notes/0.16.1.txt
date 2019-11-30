@@ -1,0 +1,40 @@
+-------------------------------------------------------------------------------------------
+
+
+			Version: Alpha 0.16.1 | Patch Update
+			Release Date: 11/30/2019
+	
+		Changes:
+	 
+	- Terrain
+	 *changed base texture resolution for all
+	  (the mountains were way to low resolution)
+	
+	- Sounds
+	 *tweaked all sounds in the scene accordingly
+	 *fixed spacialization
+	 *sound file sizes 20-40% smaller
+	 
+	- Lighting
+	 *switched lightmapper
+	 *shadow intesity reduced
+	 *tweaked AO
+	 *all GI is baked (was accidentally enabled)
+	 *proper use of reflection probes with terrain and the ocean 
+	 (due to this, the world size has been halved)
+	 
+	- Fixes
+	 *fixed abnormal reflections on some rocks
+	 *cabin mirror quality reduced due to performance issues
+	  (Mirror2.0 will fix this)
+	 *set mirrors to not render text/ panels
+	 *fixed some tree's and shrubs having broken shaders
+	 
+	 
+	 Next major version will be released once VRChat upgrades their engine to 2018.4
+	 
+	 This update is based upon feedback, I've also continued investing time on
+	 reflections and lighting and have made some improvements.
+
+
+-------------------------------------------------------------------------------------------

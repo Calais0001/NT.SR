@@ -41,6 +41,7 @@ NTSR#0013✔️- The BOX's mirror toggler is global not local
 
 NTSR#0014✔️- Spelling error's with some of the text in the UI panels			 
 			
+NTSR#0015✔️- Mirror should be set to not render any world text
 ___________________________________________________________________________________________
 
 ___________________________________________________________________________________________
