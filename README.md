@@ -3,7 +3,7 @@ NT-SR ~ First Released in November 2018
 
 NT is code name for Nassachi
 
-SR is code name for 
+SR is code name for Surreal
 
 
 Nassachi bay is set in a fictional universe in the year 3303, the Lindon Venfè ventures
