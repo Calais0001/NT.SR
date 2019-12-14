@@ -1,7 +1,8 @@
 -------------------------------------------------------------------------------------------
 
 
-			Version: Alpha 0.15 | Cabin Zone / The Box / 
+			Build  Version: Alpha 0.15 | Cabin Zone / The Box / 
+			Engine Version: Unity 2017.4.15f1
 			Release Date: 2/11/2019
 	
 		Changes:

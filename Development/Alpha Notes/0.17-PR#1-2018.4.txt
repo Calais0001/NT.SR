@@ -1,0 +1,18 @@
+-------------------------------------------------------------------------------------------
+
+
+			Version: Alpha 0.17-PR#1-2018.4 | Pre-Release
+			Engine Version: Unity 2018.4.13f1
+			Release Date: 12/14/2019
+	
+		Changes:
+	 
+	- UPGRADE TO UNITY 2017.4.13F1 ~
+	 
+	- THIS VERSION IS A PRE-RELEASE
+	  TO VIEW THE FULL VERSION LOG PLEASE WAIT FOR THE FULL VERSION TO RELEASE
+	- NOTE THAT SOME FEATURES MAY BE BROKEN OR CAUSE MAJOR PERFORMANCE ISSUES
+	  SOME COULD POTENTIALLY CRASH YOUR CLIENT
+
+
+-------------------------------------------------------------------------------------------

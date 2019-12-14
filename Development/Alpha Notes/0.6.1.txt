@@ -1,7 +1,8 @@
 -------------------------------------------------------------------------------------------
 
 
-			Version: Alpha 0.6.1 | Hotfix
+			Build  Version: Alpha 0.6.1 | Hotfix
+			Engine Version: Unity 2017.4.15f1
 			Release Date: 12/22/2018
 	
 		Changes:

@@ -1,7 +1,8 @@
 -------------------------------------------------------------------------------------------
 
 
-			Version: Alpha 0.6 | Bug Fixes / Terrain / Performance Improvements
+			Build  Version: Alpha 0.6 | Bug Fixes / Terrain / Performance Improvements
+			Engine Version: Unity 2017.4.15f1
 			Release Date: 12/22/2018
 	
 		Changes:
@@ -23,7 +24,7 @@
 	  shadows will be baked into lightmaps, whilst shadows and moving objects
 	  will be realtime
 	- The mirror has been improved
-	 *fixed z-fighting with the text
+	 *fixed intersecting shader with the text
 	 *fixed the text rendering on top of all layers
 	 *added text on the rear side
 	 *added front-facing reflections

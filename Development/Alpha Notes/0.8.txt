@@ -1,7 +1,8 @@
 -------------------------------------------------------------------------------------------
 
 
-			Version: Alpha 0.8 | Bug Fix Release / Performance Improvement
+			Build  Version: Alpha 0.8 | Bug Fix Release / Performance Improvement
+			Engine Version: Unity 2017.4.15f1
 			Release Date: 12/27/2018
 	
 		Changes:

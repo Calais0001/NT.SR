@@ -1,7 +1,8 @@
 -------------------------------------------------------------------------------------------
 
 
-			Version: Alpha 0.11 | UI System Completion / Terrain Adjustments
+			Build  Version: Alpha 0.11 | UI System Completion / Terrain Adjustments
+			Engine Version: Unity 2017.4.15f1
 			Release Date: 1/10/2019
 	
 		Changes:

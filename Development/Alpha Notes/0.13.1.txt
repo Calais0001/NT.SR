@@ -1,7 +1,8 @@
 -------------------------------------------------------------------------------------------
 
 
-			Version: Alpha 0.13.1 | Patch Update
+			Build  Version: Alpha 0.13.1 | Patch Update
+			Engine Version: Unity 2017.4.15f1
 			Release Date: 1/15/2019
 	
 		Changes:

@@ -1,7 +1,8 @@
 -------------------------------------------------------------------------------------------
 
 
-			Version: Alpha 0.7 | Games Zone / Visual Changes
+			Build  Version: Alpha 0.7 | Games Zone / Visual Changes
+			Engine Version: Unity 2017.4.15f1
 			Release Date: 12/26/2018
 	
 		Changes:

@@ -1,7 +1,8 @@
 -------------------------------------------------------------------------------------------
 
 
-			Version: Alpha 0.10 | User Interface System
+			Build  Version: Alpha 0.10 | User Interface System
+			Engine Version: Unity 2017.4.15f1
 			Release Date: 1/6/2019
 	
 		Changes:

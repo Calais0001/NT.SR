@@ -1,7 +1,8 @@
 -------------------------------------------------------------------------------------------
 
 
-			Version: Alpha 0.16 | Graphics Overhaul / Improvements & Bug Fixes
+			Build  Version: Alpha 0.16 | Graphics Overhaul / Improvements & Bug Fixes
+			Engine Version: Unity 2017.4.28f1
 			Release Date: 11/24/2019
 	
 		Changes:

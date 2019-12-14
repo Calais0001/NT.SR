@@ -1,7 +1,8 @@
 -------------------------------------------------------------------------------------------
 
 
-			Version: Alpha 0.9.1 | Point Nine Patch Release
+			Build  Version: Alpha 0.9.1 | Point Nine Patch Release
+			Engine Version: Unity 2017.4.15f1
 			Release Date: 1/3/2019
 	
 		Changes:

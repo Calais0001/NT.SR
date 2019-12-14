@@ -1,7 +1,8 @@
 -------------------------------------------------------------------------------------------
 
 
-			Version: Alpha 0.13 | New Assets / Cabin / Post Processing
+			Build  Version: Alpha 0.13 | New Assets / Cabin / Post Processing
+			Engine Version: Unity 2017.4.15f1
 			Release Date: 1/15/2019
 	
 		Changes:
