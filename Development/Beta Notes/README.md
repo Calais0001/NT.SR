@@ -1,6 +1,7 @@
-BETA FOLDER
+BETA UPDATE NOTES FOLDER
 
 Beta meaning:
-Bugs and broken features may be present
-Map is atleast majorally complete
-Updates mostly are patch's or suggested feature releases and improvements
+Polish (PHASE II)
+99% of the map is complete and is ready for phase three
+Parts of the map could be potentially refreshed or polished
+Suggested user based feature releases

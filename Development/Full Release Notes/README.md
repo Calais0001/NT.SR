@@ -1,4 +1,7 @@
-FULL RELEASE FOLDER
+FULL RELEASE NOTES FOLDER
 
 Full Release meaning:
-The world is complete and mostly will receive occasional patch updates or none at all
+Completion (PHASE III)
+Will occasionally receive patch updates
+Mini grouped remasters
+Implementation of events
