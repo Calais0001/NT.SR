@@ -1,0 +1,21 @@
+-------------------------------------------------------------------------------------------
+
+
+			Build  Version: Alpha 0.16.3 | Patch Update
+			Engine Version: Unity 2017.4.28f1
+			Release Date: 12/19/2019
+	
+		Changes:
+	 
+	- Fixes
+	 *reverted to old terrain shader due to lighting bug
+	 *fixed mirror culling mask rendering scenery UI
+	 *mirror activator ball is considered UI, set to not render in culling mask
+	 *spawn mirror max render res set to 1024x
+	 *cabin mirror max render res set to Auto
+	 *fixed reflection probe rendering the tree super bright
+	 *removed unnecessary colliders
+	 *re-computed occlusion culling
+
+
+-------------------------------------------------------------------------------------------
